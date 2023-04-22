@@ -36,6 +36,10 @@ Atualmente, estou em busca de uma oportunidade de trabalhar profissionalmente co
 - Power BI e Tableau
 
 ## Projetos
+
+### [Projetos de Análise de Dados no PowerBI](https://github.com/carolfoligno/PowerBI)
+Nesse repositório está os projetos desenvolvidos na Ferramenta PowerBI, como Análise de dados Comerciais e de Campanhas de Marketng, entre outros problemas de negócio.
+
 ### [Previsão de Vendas das Lojas Rossmann em 6 semanas](https://github.com/carolfoligno/Project_sales_prediction_Rossmann)
 Nesse projeto, teve como fim a previsão de vendas das redes de lojas da Rossmann dentro de 6 semanas. E para isso utilizei algoritmo de regressão Times Series, XGBoots, entre outros para buscar uma melhor acurácia. Como solução final, os resultados da previsão ficaram disponiveis no Telegram Bot, sendo acessiveis em qualquer lugar.
 
